@@ -7,5 +7,6 @@ public class git_test {
         System.out.println("123456");
         System.out.println("123456");
         System.out.println("也是冲突合并");
+        System.out.println("冲突合并");
     }
 }
