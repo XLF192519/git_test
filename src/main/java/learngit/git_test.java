@@ -10,5 +10,6 @@ public class git_test {
         System.out.println("冲突合并");
         System.out.println("练习一下push");
         System.out.println("在远程库添加一行，练习一下pull");
+        System.out.println("在Gitee中练习一下push");
     }
 }
